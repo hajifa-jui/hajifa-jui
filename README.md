@@ -19,7 +19,7 @@
 - Web development tools (for my portfolio)
 
 📫 **Connect with Me:**  
-- **LinkedIn:** [hajifa-jui](www.linkedin.com/in/hajifa-jui)
+- **LinkedIn:** [hajifa-jui](https://www.linkedin.com/in/hajifa-jui)
 
 ---
 
